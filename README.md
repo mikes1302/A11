@@ -1,6 +1,19 @@
 # A03
 Part 1:
- 
+  Creating a GitHub account:
+  
+    Step 1: 
+    
+    Step 2:
+    
+    Step 3:
+    
+    Step 4:
+    
+    Step 5:
+  
+  
+  
   Downloading and installing JetBrains Webstorm on a MAC:
   
     Step 1: Go to the following link: "https://www.jetbrains.com/community/education/#students/" or go to the main Jetbrains website and click on
