@@ -22,7 +22,8 @@ Part 1:
  
     Step 3: Go to the main JetBrains website "www.jetbrains.com/" click on the person icon next to the search icon on the upper right corner.
   
-    Step 3: Under the text "JetBrains Product Pack for Students" you should see a download button. Click the button and a dropdown will open up. Select the             drop down item "Webstorm". 
+    Step 3: Under the text "JetBrains Product Pack for Students" you should see a download button. Click the button and a dropdown will open up. Select 
+            the drop down item "Webstorm". 
   
     Step 4: Once you click "Webstorm" another tab to download should open up. Click on the "MAC" tab and download either the Intel or Apple Silicon                     version. If you are not sure which processor your MAC is running, click the Apple logo on the upper left screen>About This Max and a pop up                 should appear on your screen with computer specification details. Once you have your processor specs, go back to the download page and download             the proper version. Once the download is finished downloading, open it up and let the downloader install Webstorm.
   
@@ -44,4 +45,15 @@ Downloading Git for MAC:
     
 Definitions:
 
-    
+    Branch - A attachment to your main repository in which you can have beta testing code or additions to your code that you do not want in the main repository
+    Clone - A full copy of a repository which includes all the branches. It is a completely             functional copy on to your local machine
+    Commit - A published, official change to your file
+    Fetch - A command tha is used to download content from a virtual or remote repository
+    GIT - A version control system which is used by developers to better manage projects
+    Github - A platform used for uploading code for version control or collaboration                purposes
+    Merge - A command used to apply commits/changes within branches and repositories
+    Merge Conflict - When a merge command is applied but there is a 
+    Push - 
+    Pull - 
+    Remote - 
+    Repository - 
