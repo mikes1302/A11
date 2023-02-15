@@ -62,7 +62,8 @@ Downloading Git for MAC:
     Step 3: For this example I will be using the first option, Homebrew. Click on the first option,Homebrew.
     
     Step 4: You will be prompted with a new webpage https://brew.sh/ . Copy the following command from the webpage and 
-    paste it into your Terminal application: /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+    paste it into your Terminal application: 
+    /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
     
     Step 5: Press enter after pasting the command and let Terminal install Git. Congratulations you have installed Git 
     onto your mac!
@@ -76,6 +77,7 @@ Definitions:
     
     Clone - A full copy of a repository which includes all the branches. It is a completely functional copy on to your 
             local machine
+    
     Commit - A published, official change to your file
     
     Fetch - A command tha is used to download content from a virtual or remote repository
