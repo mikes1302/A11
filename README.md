@@ -1,19 +1,18 @@
 # A03
 Part 1:
   Creating a GitHub account:
-  
-    Step 1: 
     
-    Step 2:
+    Step 1: Go to your browser and load the following website "https://github.com/signup". You will be prompted to sign up and first enter your email                   address, password and create a username. Enter this information and click continue. Choose your emailing list preference and solve the human               verification puzzle.
     
-    Step 3:
+    Step 2: Click continue and you will have to retrieve and enter a security code that was sent to your entered email address.
     
-    Step 4:
+    Step 3: You can skip the account preference setup by clicking skip on the bottom or go through it.
     
-    Step 5:
-  
-  
-  
+    Step 4: To create a new repository click on the green button on the left side that says "Create Repository".
+    
+    Step 5: Choose a name and enter it into the name tab. Choose your sharing preferences(public or private) and then scroll to the bottom and click                   "Create Repository". Congratulations you have created your GitHub account and your first repository! Save this login for later.
+    
+
   Downloading and installing JetBrains Webstorm on a MAC:
   
     Step 1: Go to the following link: "https://www.jetbrains.com/community/education/#students/" or go to the main Jetbrains website and click on
@@ -34,3 +33,15 @@ Part 1:
     Step 7: Click the blue Authorize in GitHub button. You will be prompted to login to your GitHub account that you created in the previous tutorial.
     
     Step 8: After you login, head back to the Webstorm application. Go to the same projects tab before and click the same "Get From VCS" tab, then click               the GitHub tab and all your GitHub roots will pull up. Congratulations you have linked your Webstorm Application and GitHub account!
+    
+Downloading Git for MAC:
+
+    Step 1:
+    
+    Step 2:
+    
+    
+    
+Definitions:
+
+    
