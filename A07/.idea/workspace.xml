@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5994fb17-b7f7-4448-89b2-85bc9ef9b881" name="Changes" comment="A07">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A06/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../A06/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/brancaccio75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/chua75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/eire75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sampson_dinosaur.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/sorkin75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/town_hall_logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tynan75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/brancaccio.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/chua.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/speakers/sorkin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/text/c3_content.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MSpuzjpUn4NzdGkBJrTBvN3i8h" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5994fb17-b7f7-4448-89b2-85bc9ef9b881" name="Changes" comment="" />
+      <created>1677771065944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677771065944</updated>
+      <workItem from="1677771067647" duration="1574000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="A07" />
+    <option name="LAST_COMMIT_MESSAGE" value="A07" />
+  </component>
+</project>
